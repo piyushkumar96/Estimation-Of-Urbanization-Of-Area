@@ -8,6 +8,9 @@ work with the methods which automatically classify the image blocks of aerial or
 into Built-Up Areas like buildings, roads etc. and Non Built-Up Areas like forests, rivers etc. At last
 Graphical representation of Urbanization of an area in terms of ratio of buildings, vegetation and
 roads.
+
+
+
 The application includes pre-processing of Aerial Image and followed by various image segmentation
 techniques. After pre-processing vegetation extraction using Normalized Difference Vegetation
 Index (NDVI). Then building extraction is done using edge and corner detection and Hough
